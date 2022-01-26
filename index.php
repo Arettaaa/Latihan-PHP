@@ -13,12 +13,17 @@
         <select name="jk" >
         <option value="Perempuan"> Pilih </option>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		<option value="Perempuan"> P </option>
         <option value="Laki-laki"> L </option>
 =======
 		<option value="Perempuan"> L </option>
         <option value="Laki-laki"> P </option>
 >>>>>>> 4610ea7719562e87781b96c82c9ab0f1d8134a3a
+=======
+		<option value="Perempuan"> P </option>
+        <option value="Laki-laki"> L </option>
+>>>>>>> 365b8fb9be7bef9a5baa05cbf5b7c7edcb969c7c
         </select>
         <br />
         <label>No. Telpon</label> 
