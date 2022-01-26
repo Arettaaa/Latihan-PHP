@@ -1,11 +1,11 @@
 <html>
-	  <head>
+	  <!-- <head>
 	    <title>PHP Test</title>
 	  </head>
 	  <body>   
-	 <!-- penanganan form dengan method GET -->
+	 penanganan form dengan method GET 
 	<form method="get" action="tampil.php">
-		<label>Nama Siswa</label><br/>
+	    <label>Nama Siswa</label><br/>
 		<input type="text" name="nama"><br/>
 		<label>Asal Sekolah</label><br/>
 		<input type="text" name="sklh"><br/>
@@ -18,7 +18,7 @@
         <label>No. Telpon</label><br/>
 		<input type="text" name="no"><br/>	
 	    <input type="submit" value="oke">
-	    </form>
+	    </form>-->
 	
 	  </body>
 	</html>

@@ -12,7 +12,7 @@ if($baju){
 echo "<hr>";
 
 //Studi Kasus 2
-$nilai = 76;
+$nilai = 60;
 
 echo "Nilai: {$nilai} <br>";
 
