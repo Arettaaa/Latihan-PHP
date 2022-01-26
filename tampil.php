@@ -30,7 +30,7 @@ echo "<br/>";
 echo " Asal SMP: " . $sklh;
 echo "<br/>";
 
-// menampilkan data SEKOLAH
+// menampilkan no
 echo "No. Telp: " . $no;
 echo "<br/>";
  
