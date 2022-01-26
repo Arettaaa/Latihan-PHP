@@ -33,10 +33,5 @@ echo "<br/>";
 // menampilkan data SEKOLAH
 echo "No. Telp: " . $no;
 echo "<br/>";
-
-
-<<<<<<< HEAD
+ 
 ?>
-=======
-?>
->>>>>>> 4610ea7719562e87781b96c82c9ab0f1d8134a3a

@@ -1,37 +1,24 @@
 <html>
 	<head>
-	    <title>PHP Test</title>
 	  </head>
 	  <body>   
 	 <!-- penanganan form dengan method GET -->
 	<form method="get" action="tampil.php">
-	    <label>Nama Siswa</label><br/>
-		<input type="text" name="nama"><br/>
-		<label>Asal Sekolah</label><br/>
-		<input type="text" name="sklh"><br/>
-        <label>Jenis Kelamin</label><br/>
+	    <label>Nama Siswa</label>
+		<input type="text" name="nama">
+		<label>Jenis Kelamin</label>
         <select name="jk" >
-        <option value="Perempuan"> Pilih </option>
-<<<<<<< HEAD
-<<<<<<< HEAD
-		<option value="Perempuan"> P </option>
-        <option value="Laki-laki"> L </option>
-=======
-		<option value="Perempuan"> L </option>
-        <option value="Laki-laki"> P </option>
->>>>>>> 4610ea7719562e87781b96c82c9ab0f1d8134a3a
-=======
-		<option value="Perempuan"> P </option>
-        <option value="Laki-laki"> L </option>
->>>>>>> 365b8fb9be7bef9a5baa05cbf5b7c7edcb969c7c
-        </select>
-        <br />
+        <option disabled selected>  Pilih </option>
+        <option value="Perempuan"> P </option>
+        <option value="Laki-laki"> L </option> 
+    </select>
+	<br>
+		<label>Asal Sekolah</label>
+		<input type="text" name="sklh">
         <label>No. Telpon</label> 
-		<br/>
 		<input type="text" name="no"><br/>
 		<br/>	
 	    <input type="submit" value="Daftar">
-	    </form>
-	
-	  </body>
+	</form>
+	</body>
 	</html>
