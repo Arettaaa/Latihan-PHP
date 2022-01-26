@@ -12,8 +12,8 @@
         <label>Jenis Kelamin</label><br/>
         <select name="jk" >
         <option value="Perempuan"> Pilih </option>
-		<option value="Perempuan"> L </option>
-        <option value="Laki-laki"> P </option>
+		<option value="Perempuan"> P </option>
+        <option value="Laki-laki"> L </option>
         </select>
         <br />
         <label>No. Telpon</label> 
