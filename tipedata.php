@@ -54,6 +54,6 @@
     echo "e = $e"; echo "<br>";
     echo "f = $f"; echo "<br>";
 
-	//perbedaan hasilnya yaitu ketika meggunakan metode single quoted bisa menampilkan $string1 jika mengguanakan double quoted bisa menampilkan dua string sekaligus
+	//perbedaan hasilnya yaitu ketika meggunakan metode single quoted tidak bisa menampilkan variabel jiak terdapat dalam string sementara jika mengguanakan double quoted bisa menampilkan variabel atau dalam double quoted itu bisa mngecek adabya variabel atau tidak
 
 ?>
